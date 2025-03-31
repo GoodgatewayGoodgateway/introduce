@@ -71,8 +71,7 @@
 
 ---
 
-## 🛠 기술 스택 (예시)
-> 추후 구현에 맞춰 자유롭게 수정하세요!
+## 🛠 기술 스택
 
 - Frontend: React
 - Backend: Spring Boot
